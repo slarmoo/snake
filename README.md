@@ -1,2 +1,2 @@
 # snake
-A web-based snake game
+A single page web-based snake game
